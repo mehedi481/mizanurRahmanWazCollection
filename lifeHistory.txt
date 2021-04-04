@@ -1,19 +1,19 @@
 [
   {
   "id":1,
-  "name": "Life History",
+  "title": "Life History",
   "url":"https://youtu.be/SnRCSL8KEDQ",
   "duration":"6.55 Min"
   },
   {
   "id":2,
-  "name": "Life History",
+  "title": "Life History",
   "url":"https://youtu.be/r6FiTwEd1uA",
   "duration":"3.27 Min"
   },
   {
   "id":3,
-  "name": "Life History",
+  "title": "Life History",
   "url":"https://youtu.be/uyGzyBNmjFE",
   "duration":"8.38 Min"
   }
